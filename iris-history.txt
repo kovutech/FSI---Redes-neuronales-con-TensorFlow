@@ -1,0 +1,14 @@
+Neurons:10 || Epochs:299 || Percentage: 4.35
+Neurons:10 || Epochs:299 || Percentage: 4.35
+Neurons:10 || Epochs:299 || Percentage: 0.0
+Neurons:10 || Epochs:299 || Percentage: 4.35
+Neurons:20 || Epochs:299 || Percentage: 4.35
+Neurons:20 || Epochs:149 || Percentage: 4.35
+Neurons:10 || Epochs:149 || Percentage: 8.7
+Neurons:10 || Epochs:149 || Percentage: 0.0
+Neurons:10 || Epochs:149 || Percentage: 0.0
+Neurons:10 || Epochs:149 || Percentage: 0.0
+Neurons:10 || Epochs:149 || Percentage: 8.7
+Neurons:10 || Epochs:149 || Percentage: 4.35
+Neurons:10 || Epochs:149 || Percentage: 4.35
+Neurons:10 || Epochs:149 || Percentage: 4.35
